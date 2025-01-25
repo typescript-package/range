@@ -14,12 +14,19 @@
 [![GitHub issues][typescript-package-badge-issues]][typescript-package-issues]
 [![GitHub license][typescript-package-badge-license]][typescript-package-license]
 
-A **lightweight** TypeScript library to handle the range between a minimum and maximum.
+A **lightweight** TypeScript library for managing various types of ranges.
 
 ## Table of contents
 
 - [Installation](#installation)
 - [Api](#api)
+  - `Inequality`
+  - `Greater`
+  - `Less`
+  - `Maximum`
+  - `Minimum`
+  - `Number`
+  - `Range`
 - [Contributing](#contributing)
 - [Support](#support)
 - [Code of Conduct](#code-of-conduct)
